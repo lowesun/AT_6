@@ -1,5 +1,3 @@
-package org.max.home;
-
 import io.qameta.allure.*;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Assertions;
